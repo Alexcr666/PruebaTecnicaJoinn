@@ -1,0 +1,131 @@
+{
+  "project_info": {
+    "project_number": "367350599004",
+    "firebase_url": "https://zutrics-1559146747546.firebaseio.com",
+    "project_id": "zutrics-1559146747546",
+    "storage_bucket": "zutrics-1559146747546.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367350599004:android:514fae9574a1c923518599",
+        "android_client_info": {
+          "package_name": "com.flutter.dj_mania"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367350599004-e5fd7q18mf3a07jotmori1pigrbpd5lc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutter.dj_mania",
+            "certificate_hash": "97d1127faff406cce67aa858c3296da5186bf473"
+          }
+        },
+        {
+          "client_id": "367350599004-l1fgk5n3e3ke4cj3dbp6sekrecpir5lb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutter.dj_mania",
+            "certificate_hash": "b61ae8d1351801f28c65189fcab64ea392e38e91"
+          }
+        },
+        {
+          "client_id": "367350599004-tlitjc9khblee35v75hg4lfq3mbogn39.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutter.dj_mania",
+            "certificate_hash": "941d0978db858e9f8c37035440ce8789ee6f0190"
+          }
+        },
+        {
+          "client_id": "367350599004-2ab3ls3dr5aises9943u02jb3deq16eu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNcandCSYnjK83J6jWisQmkIrZcTKqMeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367350599004-2ab3ls3dr5aises9943u02jb3deq16eu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "367350599004-1eld1sqhfhao7m5aif06nmf5sumehqt5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutter.dj_mania"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367350599004:android:341bf12765be86ea",
+        "android_client_info": {
+          "package_name": "com.flutter.dj_mania"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367350599004-04l1sudseel6p5h275rrjoqbtj8m8e7k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutter.dj_mania",
+            "certificate_hash": "275c5fe090a7105a1495a97f1f8df6eb67fb1612"
+          }
+        },
+        {
+          "client_id": "367350599004-58eerdnc5rtmdt87uo3da56mp734d6lh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutter.dj_mania",
+            "certificate_hash": "b61ae8d1351801f28c65189fcab64ea392e38e91"
+          }
+        },
+        {
+          "client_id": "367350599004-8h4lpthst5qesubdr0d0li78v41fkpfv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutter.dj_mania",
+            "certificate_hash": "97d1127faff406cce67aa858c3296da5186bf473"
+          }
+        },
+        {
+          "client_id": "367350599004-2ab3ls3dr5aises9943u02jb3deq16eu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNcandCSYnjK83J6jWisQmkIrZcTKqMeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367350599004-2ab3ls3dr5aises9943u02jb3deq16eu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "367350599004-1eld1sqhfhao7m5aif06nmf5sumehqt5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutter.dj_mania"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
