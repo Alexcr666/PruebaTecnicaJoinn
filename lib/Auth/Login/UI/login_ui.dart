@@ -395,7 +395,7 @@ class _LoginUIState extends State<LoginUI> {
                             store.dispatch(LoginAction(
                                 context: context,
                                 provider: 1,
-                                email: _controllerEmail.text + "@gmail.com",
+                                email: _controllerEmail.text,
                                 password: _controllerPassword.text,
                                 success: () {
                                   //  Navigator.pushNamed(context, LoginRoutes.verification);

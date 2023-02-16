@@ -210,7 +210,7 @@ class _EventsPageState extends State<EventsPage> {
                           backgroundColor: AppColors().backgroundColor,
                           icon: Icon(
                             CupertinoIcons.ticket,
-                            color: ReduxHome.store!.state.postsState.selectedIndexTab != 3 ? AppColors().icon : AppColors.primaryColor,
+                            color: ReduxHome.store!.state.postsState.selectedIndexTab != 2 ? AppColors().icon : AppColors.primaryColor,
                             size: 36,
                           ),
                           // label: "Calendar",
@@ -219,7 +219,7 @@ class _EventsPageState extends State<EventsPage> {
                           backgroundColor: AppColors().backgroundColor,
                           icon: Icon(
                             Icons.person_outline,
-                            color: ReduxHome.store!.state.postsState.selectedIndexTab != 4 ? AppColors().icon : AppColors.primaryColor,
+                            color: ReduxHome.store!.state.postsState.selectedIndexTab != 3 ? AppColors().icon : AppColors.primaryColor,
                             size: 36,
                           ),
                           label: ""
